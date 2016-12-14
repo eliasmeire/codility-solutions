@@ -1,6 +1,7 @@
 function solution(a) {
-  let sumLow = 0
+  let current  
   let min = 2000
+  let sumLow = 0
   let sumHigh = a.reduce((a,b) => a + b)
 
   for (var i = 0; i < a.length - 1; i++) {
