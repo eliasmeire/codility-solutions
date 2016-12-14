@@ -1,4 +1,4 @@
-# codility-solutions
+# Codility solutions
 My solutions to the codility training tasks in Javascript
 
 ## Lesson 1: Iterations
@@ -12,7 +12,16 @@ My solutions to the codility training tasks in Javascript
 
 ## Lesson 3: Time Complexity
 
+- FrogJmp (https://codility.com/programmers/lessons/3-time_complexity/frog_jmp/start/)
+- PermMissingElem (https://codility.com/programmers/lessons/3-time_complexity/perm_missing_elem/start/)
+- TapeEquilibrium (https://codility.com/programmers/lessons/3-time_complexity/tape_equilibrium/start/)
+
 ## Lesson 4: Counting Elements
+
+- PermCheck (https://codility.com/programmers/lessons/4-counting_elements/perm_check/start/)
+- MissingInteger (https://codility.com/programmers/lessons/4-counting_elements/missing_integer/start/)
+- FrogRiverOne (https://codility.com/programmers/lessons/4-counting_elements/frog_river_one/start/)
+- MaxCounters (https://codility.com/programmers/lessons/4-counting_elements/max_counters/start/)
 
 ## Lesson 5: Prefix Sums
 
