@@ -1,6 +1,7 @@
 function solution(a) {
   let eastCars = 0
   let passingCars = 0
+  
   for(let i = 0; i < a.length; i++) {
     if(a[i] === 0) {
       eastCars++
