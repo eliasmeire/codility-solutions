@@ -25,6 +25,11 @@ My solutions to the codility training tasks in Javascript
 
 ## Lesson 5: Prefix Sums
 
+- PassingCars (https://codility.com/programmers/lessons/5-prefix_sums/passing_cars/start/)
+- CountDiv (https://codility.com/programmers/lessons/5-prefix_sums/count_div/start/)
+- MinAvgTwoSlice (https://codility.com/programmers/lessons/5-prefix_sums/min_avg_two_slice/start/)
+- GenomicRangeQuery (https://codility.com/programmers/lessons/5-prefix_sums/genomic_range_query/start/)
+
 ## Lesson 6: Sorting
 
 ## Lesson 7: Stacks and Queues
