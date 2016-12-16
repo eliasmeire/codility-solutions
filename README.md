@@ -50,3 +50,14 @@ My solutions to the codility training tasks in Javascript
 - EquiLeader (https://codility.com/programmers/lessons/8-leader/equi_leader/)
 
 ## Lesson 9: Maximum slice problem
+
+- MaxProfit (https://codility.com/programmers/lessons/9-maximum_slice_problem/max_profit/)
+- MaxSliceSum (https://codility.com/programmers/lessons/9-maximum_slice_problem/max_slice_sum/)
+- MaxDoubleSliceSum (https://codility.com/programmers/lessons/9-maximum_slice_problem/max_double_slice_sum/)
+
+## Lesson 10: Prime and composite numbers
+
+- CountFactors (https://codility.com/programmers/lessons/10-prime_and_composite_numbers/count_factors/)
+- MinPerimeterRectangle (https://codility.com/programmers/lessons/10-prime_and_composite_numbers/min_perimeter_rectangle/)
+- Flags (https://codility.com/programmers/lessons/10-prime_and_composite_numbers/flags/)
+- Peaks (https://codility.com/programmers/lessons/10-prime_and_composite_numbers/peaks/)
