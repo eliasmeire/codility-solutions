@@ -32,8 +32,21 @@ My solutions to the codility training tasks in Javascript
 
 ## Lesson 6: Sorting
 
+- Distinct (https://codility.com/programmers/lessons/6-sorting/distinct/)
+- MaxProductOfThree (https://codility.com/programmers/lessons/6-sorting/max_product_of_three/)
+- Triangle (https://codility.com/programmers/lessons/6-sorting/triangle/)
+- NumberOfIntersections (https://codility.com/programmers/lessons/6-sorting/number_of_disc_intersections/)
+
 ## Lesson 7: Stacks and Queues
 
+- Fish (https://codility.com/programmers/lessons/7-stacks_and_queues/fish/)
+- Brackets (https://codility.com/programmers/lessons/7-stacks_and_queues/brackets/)
+- StoneWall (https://codility.com/programmers/lessons/7-stacks_and_queues/stone_wall/)
+- Nesting (https://codility.com/programmers/lessons/7-stacks_and_queues/nesting/)
+
 ## Lesson 8: Leader
+
+- Dominator (https://codility.com/programmers/lessons/8-leader/dominator/)
+- EquiLeader (https://codility.com/programmers/lessons/8-leader/equi_leader/)
 
 ## Lesson 9: Maximum slice problem
